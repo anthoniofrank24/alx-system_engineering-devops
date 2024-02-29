@@ -1,1 +1,1 @@
-# Solutions to tasks on Web server
+In this directory, I am learning how to use a web server and automate repeatitive operations on it whilest also learning different ways to use the contetn of the server
